@@ -6,4 +6,4 @@
 
 ## Summary of Project
 
-[Project Repo](https://github.com/TBrickey/Project_One)
+[Project](https://github.com/TBrickey/Project_One)
